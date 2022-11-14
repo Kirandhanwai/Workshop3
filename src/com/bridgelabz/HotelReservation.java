@@ -11,5 +11,7 @@ public class HotelReservation {
 		for (Hotel List : hotelReservationSystem.hotelList) {
 			System.out.println(List);
 		}
+//		23-05-2022  to 31-05-2022
+		hotelReservationSystem.findcheapestHotel();
 	}
 }

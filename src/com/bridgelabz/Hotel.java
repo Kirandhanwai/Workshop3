@@ -1,8 +1,8 @@
 package com.bridgelabz;
 
 public class Hotel {
-	String hotelName;
-	double weekdayRegularCustomerCost;
+	private String hotelName;
+	private double weekdayRegularCustomerCost;
 
 	public String getHotelName() {
 		return hotelName;
